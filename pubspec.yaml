@@ -1,7 +1,7 @@
 name: english_sentences
 description: 1000+ frequently used english sentences to work with.
 version: 1.0.0
-homepage:
+homepage: https://github.com/mahanmarwat/english_sentences
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
